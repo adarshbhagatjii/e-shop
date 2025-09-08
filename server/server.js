@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 import dotenv from "dotenv";
 dotenv.config();
 
-import authRoutes from "./routes/authRoutes.js";
+import authRoutes from "./routes/authroutes.js";
 import itemRoutes from "./routes/itemRoutes.js";
 import cartRoutes from "./routes/cartRoutes.js";
 
